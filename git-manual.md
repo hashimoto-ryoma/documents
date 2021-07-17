@@ -18,5 +18,5 @@ Git Manual for team16 members
 ## コミット&プッシュの仕方
 1. 変更したファイルをコミット対象に追加する。<br>`git add *`
 2. コミットメッセージを添えてコミットする。<br>`git commit -m "コミットメッセージ"`
-3. (初回のみ)おまじない<br>
+3. (初回のみ)おまじない<br>git push --set-upstream origin master
 4. リモートリポジトリに転送する。<br>`git push`
