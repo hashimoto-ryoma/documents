@@ -20,3 +20,7 @@ Git Manual for team16 members
 2. コミットメッセージを添えてコミットする。<br>`git commit -m "コミットメッセージ"`
 3. (初回のみ)おまじない<br>git push --set-upstream origin master
 4. リモートリポジトリに転送する。<br>`git push`
+
+## 誰かがファイルを編集したら…
+1. git fetch
+2. git pull
